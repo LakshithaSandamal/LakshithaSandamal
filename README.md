@@ -8,7 +8,7 @@ Building modern web & mobile experiences with scalable architecture, clean UI sy
 
 <br/>
 
-[Portfolio](https://aseon.com) •
+[Portfolio](https://aseon.tech) •
 [Company](https://exorse.com) •
 [LinkedIn](https://www.linkedin.com/in/lakshithasandamal) •
 [GitHub](https://github.com/LakshithaSandamal)
