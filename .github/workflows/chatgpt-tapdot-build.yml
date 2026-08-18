@@ -3,6 +3,8 @@ name: Build Tap Dot APK
 on:
   push:
     branches: [chatgpt-tapdot-build]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
